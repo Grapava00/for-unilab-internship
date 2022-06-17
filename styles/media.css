@@ -69,6 +69,15 @@
     color: white;
     opacity: 100;
 }
+
+#list-container{
+    flex-direction: column;
+}
+
+.list-block{
+    width: 80%;
+    margin: 10px auto;
+}
 }
 
 
